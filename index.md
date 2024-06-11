@@ -1,1 +1,1 @@
-## 💡 Follow our Linkedin for daily tech updates: [linkedin](https://www.linkedin.com/company/building-for-fun/) 💡
+Building For Fun works around building capabilities for students, tech enthusiasts providing them a platform to learn by doing. Decreasing the gap between theory and practical, giving them a flavour of tech industry and how application are build.
