@@ -15,6 +15,15 @@ layout: default
       {%- if author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ author }}</span></span>
       {%- endif -%}</p>
+    {% if jekyll.environment == 'production' -%}
+    <!-- dark theme using DarkReader -->
+    <script src="//unpkg.com/darkreader@4.9.40/darkreader.js"></script>
+    <script type="text/javascript">
+      DarkReader.setFetchMethod(window.fetch); // Fix to remedy CORS errors in chrome console
+      //DarkReader.enable();
+      DarkReader.auto( {brightness: 100, contrast: 90, sepia: 10} );
+    </script>
+    {%- endif %}
   </header>
 
   <div class="share-links">
