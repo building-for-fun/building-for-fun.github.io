@@ -1,7 +1,4 @@
 ## Experience Sharing: First interview as Senior Dev
----
-
-### Experience Sharing: First interview as Senior Dev
 
 Recently, I had the opportunity to interview for a position at a reputed tech company. I wanted to share my experience, especially the programming questions that were posed during the interview. These questions tested my understanding of Java 8 features and my ability to handle common programming challenges.
 
