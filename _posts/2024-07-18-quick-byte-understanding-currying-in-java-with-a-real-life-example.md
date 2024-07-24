@@ -59,3 +59,8 @@ public class CurryingExample {
 * Modular Calculation: Discounts are calculated in a modular way, making it easy to add or change discount rules.
 * Reusability: Partial functions (e.g., discounts for specific user types or product categories) can be reused with different prices.
 * Readability: The code is more readable and maintainable due to the clear separation of concerns.
+
+
+Read more:
+1. [Currying in Java](https://www.baeldung.com/java-currying)
+2. [Functional Programming in Java](https://www.baeldung.com/java-functional-programming)
