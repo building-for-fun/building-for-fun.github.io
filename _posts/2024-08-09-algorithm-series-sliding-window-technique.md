@@ -48,8 +48,7 @@ public class SlidingWindow {
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 
 #### 6. Read More
-
-- [Sliding Window Algorithm Pattern (Educative)](https://www.educative.io/edpresso/sliding-window-pattern)
+- [Sliding Window Algorithm Explained (Built In)](https://builtin.com/data-science/sliding-window-algorithm)
 - [Understanding Sliding Window with Examples (GeeksforGeeks)](https://www.geeksforgeeks.org/window-sliding-technique/)
 
 Have you tried using the sliding window technique in your coding challenges? Share your experience or any tips you have in the comments below! 
