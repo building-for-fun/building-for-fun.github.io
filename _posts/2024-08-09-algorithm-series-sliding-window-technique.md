@@ -43,29 +43,16 @@ public class SlidingWindow {
 
 #### 5. LeetCode Problems to Practice
 
-- Maximum Sum Subarray of Size K
-- Minimum Size Subarray Sum
-- Longest Substring Without Repeating Characters
+- [Maximum Sum Subarray of Size K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/)
+- [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
+- [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 
 #### 6. Read More
 
-- Sliding Window Algorithm Pattern (Educative)
-- Understanding Sliding Window with Examples (GeeksforGeeks)
-
-#### 7. Call to Action
+- [Sliding Window Algorithm Pattern (Educative)](https://www.educative.io/edpresso/sliding-window-pattern)
+- [Understanding Sliding Window with Examples (GeeksforGeeks)](https://www.geeksforgeeks.org/window-sliding-technique/)
 
 Have you tried using the sliding window technique in your coding challenges? Share your experience or any tips you have in the comments below! 
-
 Don't forget to follow for more insights and tips on algorithms!
 
-#### 8. Hashtags
-
 #Java #CodingTips #Algorithms #SlidingWindow #LeetCode #Programming #CodeNewbie #DevCommunity #TechTips
-
----
-
-### Links (Separate for Clickability):
-- Sliding Window Algorithm Pattern (Educative): https://www.educative.io/edpresso/sliding-window-pattern
-- Understanding Sliding Window with Examples (GeeksforGeeks): https://www.geeksforgeeks.org/window-sliding-technique/
-
-This content provides a complete introduction to the sliding window technique, including theory, practical applications, and a call to action to encourage interaction.
